@@ -1,3 +1,4 @@
+import 'react-native-reanimated';
 import {StyleSheet, Text} from 'react-native';
 import React from 'react';
 

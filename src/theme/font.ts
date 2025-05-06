@@ -2,6 +2,7 @@ import {isIpad} from '../utils/dimensions';
 
 export const Fonts = {
   Montserrat_Regular: 'Montserrat-Regular',
+  Jua_Regular: 'Jua-Regular',
 };
 
 export const reponsiveFont = (value: number) => {
