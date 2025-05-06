@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
-    marginVertical: scaleHeght(25),
+    marginVertical: scaleHeght(10),
   },
   containerLeft: {
     flex: 2,
